@@ -31,7 +31,7 @@ Installing this wallpaper is straightforward:
 
 1. Download the project as a ZIP file.
 2. extract the zip file some whre safe
-3. choose the "crystal caves.zip" file with your lively
+3. choose the **crystal caves.zip** file with your lively
 4. engoy
 
 
