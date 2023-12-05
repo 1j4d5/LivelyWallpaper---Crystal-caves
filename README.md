@@ -30,8 +30,10 @@ With the customization function from lively wallpapers, I added the following fe
 Installing this wallpaper is straightforward:
 
 1. Download the project as a ZIP file.
-2. Extract the contents into the Lively Wallpaper background path.
-3. Open Lively Wallpaper and configure the settings. ⚙️
+2. extract the zip file some whre safe
+3. choose the "crystal caves.zip" filw with your lively
+4. engoy
+
 
 # How
 ## How This Project Works
