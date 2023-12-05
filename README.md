@@ -54,9 +54,10 @@ Installing this wallpaper is straightforward:
   <p align="center">
     <img src="https://github.com/1j4d5/LivelyWallpaper---Crystal-caves/assets/129045623/1f22ff16-7e3b-4a1e-acfa-20039f89c5bd" alt="Image of choosing choosing option in menu">
   </p>
-   3. Browse into the exracted directory and select index.html and then hit open
+   3. Browse into the exracted directory and select index.html and then hit open!
+
   <p align="center">
-    <img src="https://github.com/1j4d5/LivelyWallpaper---Crystal-caves/assets/129045623/9e3c7f8d-ab31-48f6-889c-9cb06a1e9ad0" alt="Image of of step 3">
+    <img src="https://github.com/1j4d5/LivelyWallpaper---Crystal-caves/assets/129045623/f8116f4f-3013-415c-9313-e1c16a25a9fc" alt="Image of of step 3">
   </p>
 
 
